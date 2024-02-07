@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "Pyrhos"
-  avatar           : "/assets/images/avatar.png"
+  avatar           : "/assets/images/avatar.jpg"
   bio              : "Pentester, CTF player<br>HackTheBox ATeam"
   location         : "España"
   email            : "pyrhos01@snowscan.io"
