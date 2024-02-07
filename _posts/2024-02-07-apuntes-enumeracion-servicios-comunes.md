@@ -13,6 +13,10 @@ categories:
 tags:  
   - apuntes
   - enumeracion
+  - ftp
+  - ssh
+  - http
+  - https
 
 ---
 # Enumeración del servicio FTP
