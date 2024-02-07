@@ -3,7 +3,7 @@
    ========================================================================== */
 
 /* Colors */
-$background-color: #071236 !default;
+$background-color: #9c9c9c !default;   
 $text-color: #eaeaea !default;
 $primary-color: #16c8d1 !default;
 $border-color: mix(#fff, $background-color, 20%) !default;
@@ -26,3 +26,5 @@ $navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
 .ais-search-box .ais-search-box--input {
   background-color: $form-background-color;
 }
+
+/* #071236 /*
