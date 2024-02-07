@@ -12,6 +12,7 @@ categories:
   - apuntes
   - 
 tags:  
+  - apuntes
   - enumeracion
 
 ---
