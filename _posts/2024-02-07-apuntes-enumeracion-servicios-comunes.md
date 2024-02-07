@@ -5,7 +5,7 @@ excerpt: "Enumeración"
 date: 2021-05-22
 classes: wide
 header:
-  teaser: /assets/images/htb-writeup-delivery/logo.png
+  teaser: /assets/images/enumeracion-servicios-comunes/logo.png
   teaser_home_page: true
   icon: ./assets/images/hackthebox.webp
 categories:
