@@ -9,10 +9,9 @@ header:
   teaser_home_page: true
   icon: ./assets/images/hackthebox.webp
 categories:
-  - hackthebox
-  - infosec
-tags:  
   - apuntes
+  - 
+tags:  
   - enumeracion
 
 ---
