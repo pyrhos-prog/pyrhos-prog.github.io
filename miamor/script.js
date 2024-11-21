@@ -200,7 +200,7 @@ var settings = {
         context.lineTo(point.x, point.y);
       }
       context.closePath();
-      context.fillStyle = "#4B0082";
+      context.fillStyle = "#cb18db";
       context.fill();
   
       var image = new Image();
