@@ -7,7 +7,7 @@ classes: wide
 header:
   teaser: /assets/images/thl-writeup-osint-camara/avatar.jpg
   teaser_home_page: true
-  icon: /assets/images/hackthebox.webp
+  icon: /assets/images/osint.webp
 categories:
   - thehackerlabs
   - OSINT
