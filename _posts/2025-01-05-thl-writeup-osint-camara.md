@@ -59,7 +59,7 @@ En la página de la cámara podemos ver que la cámara esta en Nashville TN y es
 
 # Solución:
 
-**Enlace a la cámara CCTV:** https://www.earthcam.com/usa/tennessee/nashville/?cam=nashville
+**Enlace a la cámara CCTV:** [enlace CCTV](https://www.earthcam.com/usa/tennessee/nashville/?cam=nashville)
 
 **Fecha de Captura de la imagen:** 10 de julio de 2024
 
