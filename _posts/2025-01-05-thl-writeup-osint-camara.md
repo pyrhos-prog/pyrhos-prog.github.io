@@ -16,7 +16,7 @@ tags:
   - cctv
 ---
 
-![](/assets/images/thl-writeup-osint-camara/avatar.jpg)
+![](/assets/images/thl-writeup-osint-camara/avatar2.jpg)
 
 El desafío consistió en colaborar con una investigación ficticia liderada por el "FBI" que abordaba un caso humorístico conocido como “robo de miradas intensas”. Este caso planteó un entorno dinámico en el que la creatividad, el análisis lógico y la narrativa persuasiva fueron esenciales para cumplir con los objetivos propuestos.
 
