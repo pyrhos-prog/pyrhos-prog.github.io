@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Cámara - The Hackers Labs
-excerpt: "Este reto OSINT de The Hacker Labs consiste en usar las camaras cctv públicas para conseguir la información del dueño de la empresa a traves de una foto "
+excerpt: "Este reto OSINT de The Hacker Labs consiste en usar las camaras cctv públicas para conseguir la información del dueño de la empresa a traves de una foto."
 date: 2025-01-05
 classes: wide
 header:
@@ -53,10 +53,8 @@ Después de buscar en el historial de la cámara nos encontramos que la imagen e
 
 ## Segundo paso (Busqueda de el dueño de la cámara cctv)
 
-En la página de la cámara podemos ver que la cámara esta en Riverfork Park, asi que ahora vamos a buscar en google maps.
+En la página de la cámara podemos ver que la cámara esta en Nashville TN y es de The Acme Feed & Seed asi que ahora vamos a buscar en google maps el edificio.
 
-![](/assets/images/thl-writeup-osint-camara/camara-cctv-actual.png)
+![](/assets/images/thl-writeup-osint-camara/acme-cctv.png)
 
 
-
-> # _WRITEUP EN PROCESO..._
