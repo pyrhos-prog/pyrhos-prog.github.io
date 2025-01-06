@@ -5,7 +5,7 @@ excerpt: "Este reto OSINT de The Hacker Labs consiste en usar las camaras cctv p
 date: 2025-01-05
 classes: wide
 header:
-  teaser: /assets/images/thl-writeup-osint-camara/avatar.jpg
+  teaser: /assets/images/thl-writeup-osint-camara/avatar2.jpg
   teaser_home_page: true
   icon: /assets/images/osint.webp
 categories:
