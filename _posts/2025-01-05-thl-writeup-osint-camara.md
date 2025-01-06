@@ -1,27 +1,24 @@
 ---
 layout: single
-title: Delivery - Hack The Box
-excerpt: "Delivery is a quick and fun easy box where we have to create a MatterMost account and validate it by using automatic email accounts created by the OsTicket application. The admins on this platform have very poor security practices and put plaintext credentials in MatterMost. Once we get the initial shell with the creds from MatterMost we'll poke around MySQL and get a root password bcrypt hash. Using a hint left in the MatterMost channel about the password being a variation of PleaseSubscribe!, we'll use hashcat combined with rules to crack the password then get the root shell."
-date: 2021-05-22
+title: Cámara - The Hackers Labs
+excerpt: "Este reto OSINT de The Hacker Labs consiste en usar las camaras cctv públicas para conseguir la información del dueño de la empresa a traves de una foto "
+date: 2025-01-05
 classes: wide
 header:
   teaser: /assets/images/htb-writeup-delivery/delivery_logo.png
   teaser_home_page: true
   icon: /assets/images/hackthebox.webp
 categories:
-  - hackthebox
-  - infosec
+  - thehackerlabs
+  - OSINT
 tags:  
-  - osticket
-  - mysql
-  - mattermost
-  - hashcat
-  - rules
+  - osint
+  - cctv
 ---
 
 ![](/assets/images/htb-writeup-delivery/delivery_logo.png)
 
-Delivery is a quick and fun easy box where we have to create a MatterMost account and validate it by using automatic email accounts created by the OsTicket application. The admins on this platform have very poor security practices and put plaintext credentials in MatterMost. Once we get the initial shell with the creds from MatterMost we'll poke around MySQL and get a root password bcrypt hash. Using a hint left in the MatterMost channel about the password being a variation of PleaseSubscribe!, we'll use hashcat combined with rules to crack the password then get the root shell.
+El desafío consistió en colaborar con una investigación ficticia liderada por el "FBI" que abordaba un caso humorístico conocido como “robo de miradas intensas”. Este caso planteó un entorno dinámico en el que la creatividad, el análisis lógico y la narrativa persuasiva fueron esenciales para cumplir con los objetivos propuestos.
 
 ## Portscan
 
