@@ -5,7 +5,7 @@ excerpt: "Este reto OSINT de The Hacker Labs consiste en usar las camaras cctv p
 date: 2025-01-05
 classes: wide
 header:
-  teaser: /assets/images/htb-writeup-delivery/delivery_logo.png
+  teaser: /assets/images/thl-writeup-osint-camara/avatar.jpg
   teaser_home_page: true
   icon: /assets/images/hackthebox.webp
 categories:
@@ -16,7 +16,7 @@ tags:
   - cctv
 ---
 
-![](/assets/images/htb-writeup-delivery/delivery_logo.png)
+![](/assets/images/thl-writeup-osint-camara/avatar.jpg)
 
 El desafío consistió en colaborar con una investigación ficticia liderada por el "FBI" que abordaba un caso humorístico conocido como “robo de miradas intensas”. Este caso planteó un entorno dinámico en el que la creatividad, el análisis lógico y la narrativa persuasiva fueron esenciales para cumplir con los objetivos propuestos.
 
