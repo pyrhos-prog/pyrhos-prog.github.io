@@ -57,4 +57,11 @@ En la página de la cámara podemos ver que la cámara esta en Nashville TN y es
 
 ![](/assets/images/thl-writeup-osint-camara/acme-cctv.png)
 
+# Solución:
+**Enlace a la cámara CCTV:** https://www.earthcam.com/usa/tennessee/nashville/?cam=nashville
 
+**Fecha de Captura de la imagen:** 10 de julio de 2024
+
+**Ciudad y ubicación exacta:** Nashville, 101 US-70, Nashville, Tennessee
+
+**Propietario del edificio:** Acme Farm Supply
